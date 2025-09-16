@@ -3,10 +3,10 @@ import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
 import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
-
+import Link from "next/link"
 export const metadata: Metadata = {
-  title: 'Civic App',
-  description: 'Created with v0',
+  title: 'Eco-Saathi',
+  description: 'Created by OutCast Team',
   generator: 'v0.app',
 }
 

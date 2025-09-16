@@ -323,7 +323,7 @@ export default function HomePage() {
                   <MapPin className="h-6 w-6 text-white drop-shadow-sm" />
                 </div>
                 <span className="font-bold text-xl bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent hidden sm:block">
-                  CivicReport
+                  Eco-Saathi
                 </span>
               </div>
 
@@ -458,7 +458,7 @@ export default function HomePage() {
                 <MapPin className="h-6 w-6 text-white drop-shadow-sm" />
               </div>
               <span className="font-bold text-xl bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent hidden sm:block">
-                CivicReport
+                Eco-Saathi
               </span>
             </div>
 
@@ -811,7 +811,7 @@ export default function HomePage() {
                   <MapPin className="h-6 w-6 text-white drop-shadow-sm" />
                 </div>
                 <span className="font-bold text-xl bg-gradient-to-r from-emerald-600 to-teal-600 bg-clip-text text-transparent">
-                  CivicReport
+                  Eco-Saathi
                 </span>
               </div>
               <p className="text-muted-foreground text-sm">
