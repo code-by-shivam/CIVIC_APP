@@ -4,6 +4,8 @@ import { cn } from '@/lib/utils'
 
 function Textarea({ className, ...props }: React.ComponentProps<'textarea'>) {
   return (
+    <>
+   
     <textarea
       data-slot="textarea"
       className={cn(
@@ -12,6 +14,10 @@ function Textarea({ className, ...props }: React.ComponentProps<'textarea'>) {
       )}
       {...props}
     />
+    <h3 className="text-[13px] font-light text-gray-500">
+  Max length: 500 characters
+</h3>
+    </>
   )
 }
 

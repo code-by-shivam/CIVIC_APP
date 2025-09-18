@@ -381,7 +381,7 @@ function ReportIssuePage({ onBack }: { onBack: () => void }) {
             </div>
 
             <div className="space-y-2">
-              <Label htmlFor="description">Description *</Label>
+              <Label htmlFor="description">Description * </Label>
               <Textarea
                 id="description"
                 placeholder="Describe the issue in detail..."
