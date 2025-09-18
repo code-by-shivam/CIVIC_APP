@@ -319,7 +319,7 @@ function ReportIssuePage({ onBack }: { onBack: () => void }) {
                 <Label htmlFor="photo" className="cursor-pointer">
                   <Camera className="h-8 w-8 text-muted-foreground mx-auto mb-2" />
                   <p className="text-sm text-muted-foreground">
-                    {formData.photo ? formData.photo.name : "Click to upload a photo"}
+                    {formData.photo ? formData.photo.name : "Click a photo"}
                   </p>
                 </Label>
               </div>
